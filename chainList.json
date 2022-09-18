@@ -50,7 +50,7 @@
         "chainId": "97",
         "label": "https://data-seed-prebsc-1-s1.binance.org:8545/",
         "symbol": "TBNB",
-        "VUE_APP_TRANSFER": "0xB1cC22Ca2592571b7599A2FeF592bfEB53a3D0FB",
+        "VUE_APP_TRANSFER": "0xf6DeC5C567A7Bed44a5418b776bAA7B4D5f7505A",
         "logo": "bnb.png"
     },
     {
