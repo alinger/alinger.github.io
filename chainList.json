@@ -5,15 +5,17 @@
         "chainId": "80001",
         "label": "https://matic-mumbai.chainstacklabs.com",
         "symbol": "TMATIC",
-        "VUE_APP_TRANSFER": "0x6DAbd94fBE2E6ffE913E825236dDC4d3c17Cdc1a"
+        "VUE_APP_TRANSFER": "0x6DAbd94fBE2E6ffE913E825236dDC4d3c17Cdc1a",
+        "logo": "matic.png"
     },
     {
         "value": "1",
-        "name": "Matic",
+        "name": "Matic 主网络",
         "chainId": "137",
         "label": "https://rpc-mainnet.maticvigil.com",
         "symbol": "MATIC",
-        "VUE_APP_TRANSFER": "0x13735Ccf961E76981c2117bCA8a8a38B80cB28D6"
+        "VUE_APP_TRANSFER": "0x13735Ccf961E76981c2117bCA8a8a38B80cB28D6",
+        "logo": "matic.png"
     },
     {
         "value": "2",
@@ -21,7 +23,8 @@
         "chainId": "4",
         "label": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "symbol": "ETH",
-        "VUE_APP_TRANSFER": "0xa544924dB562776255cC298c8ea7353d96A9aD4c"
+        "VUE_APP_TRANSFER": "0xa544924dB562776255cC298c8ea7353d96A9aD4c",
+        "logo": "eth.png"
     },
     {
         "value": "3",
@@ -29,7 +32,8 @@
         "chainId": "42",
         "label": "https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "symbol": "ETH",
-        "VUE_APP_TRANSFER": "0x5DB9C0C8B24228C8Db8ff1117ED609FceAB14aB2"
+        "VUE_APP_TRANSFER": "0x5DB9C0C8B24228C8Db8ff1117ED609FceAB14aB2",
+        "logo": "eth.png"
     },
     {
         "value": "4",
@@ -37,7 +41,8 @@
         "chainId": "5",
         "label": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "symbol": "ETH",
-        "VUE_APP_TRANSFER": "0x4B53c468A4BCe1d341dB8d29596138f245eF500d"
+        "VUE_APP_TRANSFER": "0x4B53c468A4BCe1d341dB8d29596138f245eF500d",
+        "logo": "eth.png"
     },
     {
         "value": "5",
@@ -45,6 +50,16 @@
         "chainId": "97",
         "label": "https://data-seed-prebsc-1-s1.binance.org:8545/",
         "symbol": "TBNB",
-        "VUE_APP_TRANSFER": "0xB1cC22Ca2592571b7599A2FeF592bfEB53a3D0FB"
+        "VUE_APP_TRANSFER": "0xB1cC22Ca2592571b7599A2FeF592bfEB53a3D0FB",
+        "logo": "bnb.png"
+    },
+    {
+        "value": "6",
+        "name": "币安主网络",
+        "chainId": "56",
+        "label": "https://bsc-dataseed1.binance.org/",
+        "symbol": "BNB",
+        "VUE_APP_TRANSFER": "0xeF62A892e956C0Bedf480C2676C0C9f883C334C4",
+        "logo": "bnb.png"
     }
 ]
